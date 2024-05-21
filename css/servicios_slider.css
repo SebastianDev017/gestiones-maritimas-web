@@ -1,0 +1,493 @@
+@charset "UTF-8";
+.font--robotoslab {
+  font-family: "Roboto Slab", Georgia, serif;
+  font-weight: 700;
+}
+
+.font--roboto {
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.font--lobster {
+  font-family: "Lobster", cursive;
+  font-weight: 400;
+}
+
+.font--cabin {
+  font-family: "Cabin", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.font--eczar {
+  font-family: "Eczar", Georgia, serif;
+  font-weight: 700;
+}
+
+.font--gentium {
+  font-family: "Gentium Basic", Georgia, serif;
+  font-weight: 400;
+}
+
+@font-face {
+	font-family: "Roboto Bold";
+	src: url("../fonts/roboto/Roboto-Bold.woff");
+  }
+  @font-face {
+	font-family: "Roboto Ligth";
+	src: url("../fonts/roboto/Roboto-Light.woff");
+  }
+  @font-face {
+	font-family: "Roboto Medium";
+	src: url("../fonts/roboto/Roboto-Medium.woff");
+  }
+  @font-face {
+	font-family: "Roboto Regular";
+	src: url("../fonts/roboto/Roboto-Regular.woff");
+  }
+  @font-face {
+    font-family: "icons";
+    src: url("../fonts/fontawesome-webfont.woff");
+    }
+
+* {
+  
+}
+
+.servicios_slaider {
+  height: 100%;
+  font-family: "Roboto", Georgia, sans-serif;
+  font-weight: 400;
+  overflow: hidden;
+  width: 100%;
+  margin-top: -70px;
+  
+    
+ 
+ 
+}
+
+.servicios_slaider {
+  background: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  display: flex;
+}
+
+h1 {
+  font-size: 3.5em;
+  margin: 0;
+  font-weight: normal;
+  
+}
+
+h2 {
+  font-size: 3em;
+  margin: 0;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 2.5em;
+  margin: 0;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 2.125em;
+  margin: 0;
+  font-weight: normal;
+}
+
+h5 {
+  font-size: 1.75em;
+  margin: 0;
+  font-weight: normal;
+}
+
+h6 {
+  font-size: 1.25em;
+  margin: 0;
+  font-weight: normal;
+}
+.nuestros_Sercicios{
+ position: absolute;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+  margin-top: -250px;
+  font-family: "Roboto Regular";
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  padding: 40px;
+  
+  
+
+}
+.nuestros_Sercicios h5{
+  font-size: 30px;
+  color: #2ca0e8;
+}
+.nuestros_Sercicios h5 span{
+  font-size: 30px;
+  color: #3cffcd;
+}
+.nuestros_Sercicios p{
+  text-align: center;
+  font-family: "Roboto Light";
+  color:#777;
+}
+.nuestros_Sercicios span{
+  color: #2ca0e8;
+  font-size: 20px;
+}
+.iconos-servicios{
+  font-size: 6.5em;
+  font-weight: normal;
+} 
+  
+.full-card .icon-instructor{
+  color: #E83043;
+}
+.full-card .icon-process{
+  color: #16c79a !important;
+}
+.full-card .icon-ingeniero{
+  color: #4C91EB
+}
+.full-card .icon-ingeniero-3{
+  color: #f58634;
+}
+.full-card .icon-plataforma{
+  color: #6930c3;
+}
+.full-card .icon-file-text-o{
+  color: #ff577f;
+}
+.full-card .icon-perfil-de-helicoptero{
+  color: #40a8c4;
+}
+.full-card .icon-frio{
+  color: #a685e2;
+}
+.full-card .icon-v2{
+  color: #c24914;
+}
+.full-card .icon-coronavirus{
+  color: #00b7c2;
+
+}
+.author h4 {
+  /*position: absolute;
+  bottom: 5px;
+  align-items: center;
+  color: #999;
+  margin-top:1000px;*/
+  
+}
+
+.author a {
+  /*
+  color: #A1BEE6;
+  text-decoration: none;
+  text-decoration: none;*/
+}
+.author a:hover {
+  /*color: #327CCB;
+  text-decoration: none;*/
+}
+
+.bx-viewport {
+  overflow: visible !important;
+  width: auto;
+}
+
+.bx-pager {
+  /*margin-top: 20px;
+  display: flex;
+  justify-content: center;*/
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+  /*background: #666;
+  text-indent: -9999px;
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin: 0 10px;
+  outline: 0;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);*/
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+  /*background: rgba(0, 0, 0, 0.7);*/
+}
+.name_empresa{
+  font-family: "Roboto Medium";
+}
+.full-card {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.full-card h3{
+  color: #56575e;
+  font-family: "Roboto Ligth";
+  font-size: 25px;
+}
+.full-card p{
+  color: #777;
+  text-align: justify;
+  font-family: "Roboto Ligth";
+  padding: 5px;
+  font-size: 1.4em;
+}
+
+.full-card ul{
+  list-style: none;
+}
+.full-card table{
+color: #777;
+font-family: "Roboto Ligth";
+font-size: 1.2em;
+width: 100%;
+text-align: justify;
+border: none;
+}
+.icon-checkmark-1{
+  color:#2CA0E8;
+  font-size: 15px;
+}
+
+.font-card {
+  position: relative;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  /*background: linear-gradient(45deg, #9fbee6 0%, #dfeaee 100%);*/
+  padding: 20px 20px;
+  color:white;
+  margin: 0 15px;
+  text-align: center;
+  /*box-shadow: 0 15px 20px -15px rgba(0, 0, 0, 0.3), 0 55px 50px -35px rgba(0, 0, 0, 0.3);*/
+  transition: box-shadow 0.3s, transform 0.3s;
+  transition-delay: 0.15s;
+}
+.font-card.hovered-card {
+  /*box-shadow: 0 5px 3px -5px rgba(0, 0, 0, 0.3), 0 2px 8px -5px rgba(0, 0, 0, 0.3);*/
+  transform: translateY(-2px);
+}
+.font-card p {
+  line-height: 1.4;
+}
+
+.font-description {
+  padding: 0 30px;
+  margin: 15px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.font-description h2 {
+  color: #56575e;
+}
+.font-description h2 span {
+  color: #d2d2d2;
+}
+.font-description p {
+  padding-left: 15px;
+  color: #777;
+  line-height: 1.8;
+}
+.font-description p:before {
+  content: "—";
+  margin-left: -15px;
+  margin-right: 4px;
+}
+
+.explore-button {
+  font-size: 0.9em;
+  background: #2F80ED;
+  width: 50%;
+  color: white;
+  display: inline-block;
+  padding: 1em;
+  margin-top: 2em;
+  border-radius: 5em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  box-shadow: 0 15px 20px -10px rgba(0, 0, 0, 0.3);
+  transition: color 0.6s, box-shadow 0.3s, transform 0.3s;
+}
+.explore-button:hover {
+  box-shadow: 0 3px 5px -5px rgba(0, 0, 0, 0.3);
+  transform: translateY(-1px);
+  color: #3cffcd;
+}
+
+@media screen and (max-width: 991px) {
+  .full-card {
+    max-height: auto;
+    justify-content: center;
+    align-items: stretch;
+    background:white;
+    width: auto;
+    max-width: auto;
+    flex-wrap: wrap;
+    /* padding: 30px 60px;*/
+    
+  }
+
+  .font-card {
+    width: calc(50% - 30px);
+  
+  }
+
+  .font-description {
+    width: 100%;
+  }
+  .robotoslab-card {
+    width: 100%;
+  }
+}
+.robotoslab-card {
+  height: auto;
+  background:white;
+  background-size: cover;
+}
+
+
+.contenedor {
+	height: 100%;
+  padding: 5% 0;
+}
+
+h1 {
+	color: #FCFBFA;
+}
+
+.container_foto {
+	background-color: rgba(32, 59, 230, 0.7);
+	padding: 0;
+	overflow: hidden;
+	max-width: 350px;
+  margin: 5px;
+
+}
+
+.container_foto article {
+	padding: 10%;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.container_foto h2 {
+	color: #fff;
+	font-weight: 800;
+	font-size: 25px;
+	border-bottom: #fff solid 1px;
+}
+
+.container_foto h4 {
+	font-weight: 300;
+	color: #fff;
+	font-size: 16px;
+}
+
+.container_foto img {
+	width: 100%;
+	top: 0;
+	left: 0;
+	opacity: 0.7;
+	-webkit-transition: all 4s ease;
+	-moz-transition: all 4s ease;
+	-o-transition: all 4s ease;
+	-ms-transition: all 4s ease;
+	transition: all 4s ease;
+}
+.nuestros_Sercicios p label{
+  margin-bottom: 0.9em;;
+  text-align: center;
+}
+#helipuerto{
+  margin: 0 auto;
+ 
+   
+}
+#gestiones table, #asesoria table{
+  font-size: 1.4em;
+}
+.fondo{
+  position: absolute;
+  width: 50%;
+  opacity: 0.1;
+  margin: 0 auto;
+}
+
+
+.font-card{
+  background-color:transparent;
+  width: 70%;
+} 
+#gestiones,#documentos {
+  margin: 0 auto;
+  width: 80%;
+}
+@media screen and (max-width: 776px) {
+  .font-card{
+  
+    width: 90%;
+  } 
+  .fondo{
+    
+    width: 100%;
+    
+  }
+}
+
+
+
+
+/*hovers*/
+
+.container_foto:hover {
+	cursor: pointer;
+}
+
+.container_foto:hover img {
+	opacity: 1;
+	transform: scale(1.5);
+}
+
+.container_foto:hover article {
+	transform: translate(2px, -69px);
+	-webkit-transform: translate(2px, -69px);
+	-moz-transform: translate(2px, -69px);
+	-o-transform: translate(2px, -69px);
+	-ms-transform: translate(2px, -69px);
+}
+
+.container_foto:hover .ver_mas {
+	transform: translate(0px, 0px);
+	-webkit-transform: translate(0px, 0px);
+	-moz-transform: translate(0px, 0px);
+	-o-transform: translate(0px, 0px);
+	-ms-transform: translate(0px, 0px);
+	opacity: 1;
+}

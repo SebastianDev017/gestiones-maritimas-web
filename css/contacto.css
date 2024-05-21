@@ -1,0 +1,138 @@
+#contacto {
+  width: 90%;
+}
+
+.h3_contacto {
+  color: #2ca0e8;
+  font-family: "Roboto Light";
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.informacio_contact h5 {
+  color: #2ca0e8;
+}
+.informacio_contact .table_info {
+  border: none;
+  font-family: "Roboto Light";
+  color: #56575e;
+}
+.informacio_contact .table_info h6 {
+  font-family: "Roboto Bold";
+}
+.informacio_contact .table_info tr {
+  line-height: 0;
+}
+.informacio_contact .table_info tr :hover a {
+  color: #3cffcd;
+  font-family: "Roboto Medium";
+}
+.informacio_contact .table_info tr td span {
+  color: #2ca0e8;
+  font-size: 30px;
+  padding: 10px;
+}
+.informacio_contact .table_info tr td a {
+  color: #56575e;
+}
+
+.table_direction {
+  border: none;
+  font-family: "Roboto Light";
+  color: #56575e;
+}
+.table_direction h6 {
+  font-family: "Roboto Bold";
+}
+.table_direction span {
+  color: #2ca0e8;
+  font-size: 30px;
+  padding: 10px;
+}
+
+#contacto_covid-19 {
+  width: 80%;
+}
+#contacto_covid-19 .informacio_contact table tr {
+  line-height: 20px;
+}
+#contacto_covid-19 .informacio_contact table tr td a {
+  color: #00b7c2;
+}
+
+/*Footer*/
+/*--footer responsive--*/
+footer {
+  background: #191818;
+  /*color: #566573;*/
+  color: white;
+  font-family: "Roboto Medium";
+}
+footer h4 {
+  font-size: 1em;
+  opacity: 0.6;
+}
+footer ol {
+  margin-top: 20px;
+}
+footer li {
+  list-style: none;
+  margin-bottom: 0.2em;
+  font-size: 0.8em;
+  margin-left: -3em;
+  margin-top: 8px;
+  color: rgba(244, 246, 246, 0.6);
+}
+footer a span {
+  margin-right: 0.5em;
+}
+
+.social_media {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  float: left;
+}
+.social_media p {
+  opacity: 0.5;
+  color: white;
+  padding: 5px;
+}
+.social_media label span {
+  color: #3cffcd;
+  font-size: 30px;
+  padding: 10px;
+  transition: 300ms ease;
+}
+
+.social_media label span:hover {
+  color: #2ca0e8;
+
+}
+.social_media a {
+  text-decoration: none;
+  list-style: none;
+}
+.social_media a :hover {
+  color: #ffc75f;
+  text-decoration: none;
+}
+
+.copyrigth {
+  border-top: 1px solid rgba(248, 249, 249, 0.14);
+  color: rgba(244, 246, 246, 0.6);
+  font-size: 0.8em;
+  margin-right: 0 auto;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  background: #333333;
+  height: 45px;
+  overflow: hidden;
+}
+
+#ssl {
+  background-color: red;
+  display: flex;
+}

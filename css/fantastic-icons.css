@@ -1,0 +1,241 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "untitled-font-2";
+  src:url("../fonts/untitled-font-2.eot");
+  src:url("../fonts/untitled-font-2.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/untitled-font-2.woff") format("woff"),
+    url("../fonts/untitled-font-2.ttf") format("truetype"),
+    url("../fonts/untitled-font-2.svg#untitled-font-2") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "untitled-font-2" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "untitled-font-2" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ship:before {
+  content: "\62";
+}
+.icon-phone:before {
+  content: "\63";
+}
+.icon-facebook-square:before {
+  content: "\64";
+}
+.icon-twitter-square:before {
+  content: "\65";
+}
+.icon-home:before {
+  content: "\66";
+}
+.icon-contacto:before {
+  content: "\68";
+}
+.icon-industry:before {
+  content: "\69";
+}
+.icon-envelope:before {
+  content: "\74";
+}
+.icon-map-marker:before {
+  content: "\75";
+}
+.icon-web:before {
+  content: "\77";
+}
+.icon-soldador:before {
+  content: "\79";
+}
+.icon-cog:before {
+  content: "\7a";
+}
+.icon-v2:before {
+  content: "\43";
+}
+.icon-plataform:before {
+  content: "\44";
+}
+.icon-plataforma:before {
+  content: "\45";
+}
+.icon-ingeniero-1:before {
+  content: "\47";
+}
+.icon-capacitar:before {
+  content: "\49";
+}
+.icon-ingeniero-2:before {
+  content: "\4a";
+}
+.icon-down-open-mini:before {
+  content: "\4d";
+}
+.icon-pin:before {
+  content: "\4f";
+}
+.icon-up-open-big:before {
+  content: "\42";
+}
+.icon-picture-o:before {
+  content: "\48";
+}
+.icon-bloque-de-oficinas:before {
+  content: "\50";
+}
+.icon-right-dir:before {
+  content: "\51";
+}
+.icon-barco-petrolero:before {
+  content: "\52";
+}
+.icon-ingeniero:before {
+  content: "\53";
+}
+.icon-saludo:before {
+  content: "\73";
+}
+.icon-casco:before {
+  content: "\78";
+}
+.icon-extintor-de-incendios:before {
+  content: "\54";
+}
+.icon-arrow-right:before {
+  content: "\56";
+}
+.icon-contaminacion:before {
+  content: "\55";
+}
+.icon-analisis:before {
+  content: "\57";
+}
+.icon-settings:before {
+  content: "\59";
+}
+.icon-plus:before {
+  content: "\41";
+}
+.icon-salvavidas:before {
+  content: "\58";
+}
+.icon-cancel:before {
+  content: "\5a";
+}
+.icon-mas:before {
+  content: "\30";
+}
+.icon-riesgo:before {
+  content: "\32";
+}
+.icon-buque:before {
+  content: "\33";
+}
+.icon-asterisk:before {
+  content: "\34";
+}
+.icon-check-1:before {
+  content: "\67";
+}
+.icon-right-open:before {
+  content: "\35";
+}
+.icon-ojo:before {
+  content: "\6a";
+}
+.icon-grafico-de-lineas:before {
+  content: "\61";
+}
+.icon-reunion:before {
+  content: "\6b";
+}
+.icon-certificate:before {
+  content: "\6c";
+}
+.icon-aprobado:before {
+  content: "\6d";
+}
+.icon-coronavirus:before {
+  content: "\6f";
+}
+.icon-book-dowload-streamline:before {
+  content: "\70";
+}
+.icon-ingenieros:before {
+  content: "\71";
+}
+.icon-process:before {
+  content: "\72";
+}
+.icon-perfil-de-helicoptero:before {
+  content: "\76";
+}
+.icon-file-text-o:before {
+  content: "\6e";
+}
+.icon-instructor:before {
+  content: "\46";
+}
+.icon-frio:before {
+  content: "\4b";
+}
+.icon-ingenieros-1:before {
+  content: "\4c";
+}
+.icon-ingeniero-3:before {
+  content: "\4e";
+}
+.icon-checkmark:before {
+  content: "\31";
+}
+.icon-check-circle-o:before {
+  content: "\36";
+}
+.icon-check-circle:before {
+  content: "\37";
+}
+.icon-checkmark-1:before {
+  content: "\38";
+}
+.icon-deslizar-a-la-izquierda:before {
+  content: "\22";
+}
+.icon-archivo-pdf:before {
+  content: "\39";
+}
+.icon-linkedin-square:before {
+  content: "\21";
+}
+.icon-instagrem:before {
+  content: "\24";
+}
+.icon-advertencia-1:before {
+  content: "\23";
+}
+.icon-whatsapp:before {
+  content: "\25";
+}

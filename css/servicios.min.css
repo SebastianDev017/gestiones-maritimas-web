@@ -1,0 +1,7 @@
+.services-page h4{margin-top:4em;text-align:center;margin-bottom:1em;color:#000}.services-page h3{color:#000}.services-page ol{list-style:none!important;color:#999;border:none!important}
+.services-page ol li{padding:4px;margin-left:-8px!important;cursor:pointer}.services-page ol li a{color:#999;line-height:15px!important}.services-page ol li a:hover{background:#d5d8dc!important;color:#000!important}
+.services-page ol li a:active{background:#d5d8dc!important;color:#000}.services-page p{text-align:justify;color:#999}.services-page .icon-barco-petrolero,.services-page .icon-plataforma,.services-page .icon-check,.services-page .icon-ingeniero,.services-page .icon-saludo{font-size:5em;color:#566573;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.services-page a{color:#3498db}.services-page a:active{text-decoration:none}.services-page .collapsible li{list-style:none}.services-page .collapsible img{margin:0 auto;width:250px}
+.services-page .collapsible-header,.services-page .collapsible{border:0;-webkit-box-shadow:none;box-shadow:none}.services-page .subitem1,.services-page .subitem2,.services-page .subitem3,.services-page .subitem4{cursor:pointer}
+.services-page #_cap-personal .c-personal{background-image:url("../images/capacitacion.jpg");background-repeat:no-repeat;background-size:cover;height:16em}
+.services-page #_cap-personal h3{margin-top:1em;margin-bottom:1em}
